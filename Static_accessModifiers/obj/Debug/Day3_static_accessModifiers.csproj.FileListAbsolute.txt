@@ -1,0 +1,6 @@
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day3_static_accessModifiers\Day3_static_accessModifiers\bin\Debug\Day3_static_accessModifiers.exe.config
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day3_static_accessModifiers\Day3_static_accessModifiers\bin\Debug\Day3_static_accessModifiers.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day3_static_accessModifiers\Day3_static_accessModifiers\bin\Debug\Day3_static_accessModifiers.pdb
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day3_static_accessModifiers\Day3_static_accessModifiers\obj\Debug\Day3_static_accessModifiers.csprojResolveAssemblyReference.cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day3_static_accessModifiers\Day3_static_accessModifiers\obj\Debug\Day3_static_accessModifiers.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day3_static_accessModifiers\Day3_static_accessModifiers\obj\Debug\Day3_static_accessModifiers.pdb
