@@ -1,0 +1,10 @@
+c:\users\phuge_k\documents\visual studio 2015\Projects\SnehaDemoClass\SnehaDemoClass\bin\Debug\SnehaDemoClass.dll.config
+c:\users\phuge_k\documents\visual studio 2015\Projects\SnehaDemoClass\SnehaDemoClass\bin\Debug\SnehaDemoClass.dll
+c:\users\phuge_k\documents\visual studio 2015\Projects\SnehaDemoClass\SnehaDemoClass\bin\Debug\SnehaDemoClass.pdb
+c:\users\phuge_k\documents\visual studio 2015\Projects\SnehaDemoClass\SnehaDemoClass\bin\Debug\EntityFramework.dll
+c:\users\phuge_k\documents\visual studio 2015\Projects\SnehaDemoClass\SnehaDemoClass\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\phuge_k\documents\visual studio 2015\Projects\SnehaDemoClass\SnehaDemoClass\bin\Debug\EntityFramework.xml
+c:\users\phuge_k\documents\visual studio 2015\Projects\SnehaDemoClass\SnehaDemoClass\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\phuge_k\documents\visual studio 2015\Projects\SnehaDemoClass\SnehaDemoClass\obj\Debug\SnehaDemoClass.csprojResolveAssemblyReference.cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\SnehaDemoClass\SnehaDemoClass\obj\Debug\SnehaDemoClass.dll
+c:\users\phuge_k\documents\visual studio 2015\Projects\SnehaDemoClass\SnehaDemoClass\obj\Debug\SnehaDemoClass.pdb
