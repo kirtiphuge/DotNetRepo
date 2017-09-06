@@ -1,0 +1,6 @@
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day8_List\Day8_List\bin\Debug\Day8_List.exe.config
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day8_List\Day8_List\bin\Debug\Day8_List.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day8_List\Day8_List\bin\Debug\Day8_List.pdb
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day8_List\Day8_List\obj\Debug\Day8_List.csprojResolveAssemblyReference.cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day8_List\Day8_List\obj\Debug\Day8_List.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day8_List\Day8_List\obj\Debug\Day8_List.pdb
