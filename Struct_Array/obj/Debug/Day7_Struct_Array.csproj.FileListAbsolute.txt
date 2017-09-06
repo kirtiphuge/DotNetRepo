@@ -1,0 +1,6 @@
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day7_Struct_Array\Day7_Struct_Array\bin\Debug\Day7_Struct_Array.exe.config
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day7_Struct_Array\Day7_Struct_Array\bin\Debug\Day7_Struct_Array.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day7_Struct_Array\Day7_Struct_Array\bin\Debug\Day7_Struct_Array.pdb
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day7_Struct_Array\Day7_Struct_Array\obj\Debug\Day7_Struct_Array.csprojResolveAssemblyReference.cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day7_Struct_Array\Day7_Struct_Array\obj\Debug\Day7_Struct_Array.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day7_Struct_Array\Day7_Struct_Array\obj\Debug\Day7_Struct_Array.pdb
