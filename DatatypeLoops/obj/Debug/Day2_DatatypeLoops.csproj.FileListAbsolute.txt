@@ -1,0 +1,6 @@
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day2_DatatypeLoops\Day2_DatatypeLoops\bin\Debug\Day2_DatatypeLoops.exe.config
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day2_DatatypeLoops\Day2_DatatypeLoops\bin\Debug\Day2_DatatypeLoops.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day2_DatatypeLoops\Day2_DatatypeLoops\bin\Debug\Day2_DatatypeLoops.pdb
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day2_DatatypeLoops\Day2_DatatypeLoops\obj\Debug\Day2_DatatypeLoops.csprojResolveAssemblyReference.cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day2_DatatypeLoops\Day2_DatatypeLoops\obj\Debug\Day2_DatatypeLoops.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day2_DatatypeLoops\Day2_DatatypeLoops\obj\Debug\Day2_DatatypeLoops.pdb
