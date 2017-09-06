@@ -1,0 +1,6 @@
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day15_ExceptionHandling\Day15_ExceptionHandling\bin\Debug\Day15_ExceptionHandling.exe.config
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day15_ExceptionHandling\Day15_ExceptionHandling\bin\Debug\Day15_ExceptionHandling.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day15_ExceptionHandling\Day15_ExceptionHandling\bin\Debug\Day15_ExceptionHandling.pdb
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day15_ExceptionHandling\Day15_ExceptionHandling\obj\Debug\Day15_ExceptionHandling.csprojResolveAssemblyReference.cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day15_ExceptionHandling\Day15_ExceptionHandling\obj\Debug\Day15_ExceptionHandling.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day15_ExceptionHandling\Day15_ExceptionHandling\obj\Debug\Day15_ExceptionHandling.pdb
