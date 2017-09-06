@@ -1,0 +1,6 @@
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day3_Namespaces\Day3_Namespaces\bin\Debug\Day3_Namespaces.exe.config
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day3_Namespaces\Day3_Namespaces\bin\Debug\Day3_Namespaces.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day3_Namespaces\Day3_Namespaces\bin\Debug\Day3_Namespaces.pdb
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day3_Namespaces\Day3_Namespaces\obj\Debug\Day3_Namespaces.csprojResolveAssemblyReference.cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day3_Namespaces\Day3_Namespaces\obj\Debug\Day3_Namespaces.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day3_Namespaces\Day3_Namespaces\obj\Debug\Day3_Namespaces.pdb
