@@ -1,0 +1,6 @@
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day7_Generics\Day7_Generics\bin\Debug\Day7_Generics.exe.config
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day7_Generics\Day7_Generics\bin\Debug\Day7_Generics.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day7_Generics\Day7_Generics\bin\Debug\Day7_Generics.pdb
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day7_Generics\Day7_Generics\obj\Debug\Day7_Generics.csprojResolveAssemblyReference.cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day7_Generics\Day7_Generics\obj\Debug\Day7_Generics.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day7_Generics\Day7_Generics\obj\Debug\Day7_Generics.pdb
