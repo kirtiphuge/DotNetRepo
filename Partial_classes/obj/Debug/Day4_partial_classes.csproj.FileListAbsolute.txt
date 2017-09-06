@@ -1,0 +1,6 @@
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day4_partial_classes\Day4_partial_classes\bin\Debug\Day4_partial_classes.exe.config
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day4_partial_classes\Day4_partial_classes\bin\Debug\Day4_partial_classes.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day4_partial_classes\Day4_partial_classes\bin\Debug\Day4_partial_classes.pdb
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day4_partial_classes\Day4_partial_classes\obj\Debug\Day4_partial_classes.csprojResolveAssemblyReference.cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day4_partial_classes\Day4_partial_classes\obj\Debug\Day4_partial_classes.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day4_partial_classes\Day4_partial_classes\obj\Debug\Day4_partial_classes.pdb
