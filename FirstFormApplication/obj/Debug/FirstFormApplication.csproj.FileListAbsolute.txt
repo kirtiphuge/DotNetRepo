@@ -1,0 +1,13 @@
+c:\users\phuge_k\documents\visual studio 2015\Projects\FirstFormApplication\FirstFormApplication\bin\Debug\FirstFormApplication.exe.config
+c:\users\phuge_k\documents\visual studio 2015\Projects\FirstFormApplication\FirstFormApplication\bin\Debug\FirstFormApplication.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\FirstFormApplication\FirstFormApplication\bin\Debug\FirstFormApplication.pdb
+c:\users\phuge_k\documents\visual studio 2015\Projects\FirstFormApplication\FirstFormApplication\bin\Debug\EntityFramework.dll
+c:\users\phuge_k\documents\visual studio 2015\Projects\FirstFormApplication\FirstFormApplication\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\phuge_k\documents\visual studio 2015\Projects\FirstFormApplication\FirstFormApplication\bin\Debug\EntityFramework.xml
+c:\users\phuge_k\documents\visual studio 2015\Projects\FirstFormApplication\FirstFormApplication\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\phuge_k\documents\visual studio 2015\Projects\FirstFormApplication\FirstFormApplication\obj\Debug\FirstFormApplication.csprojResolveAssemblyReference.cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\FirstFormApplication\FirstFormApplication\obj\Debug\FirstFormApplication.Form1.resources
+c:\users\phuge_k\documents\visual studio 2015\Projects\FirstFormApplication\FirstFormApplication\obj\Debug\FirstFormApplication.Properties.Resources.resources
+c:\users\phuge_k\documents\visual studio 2015\Projects\FirstFormApplication\FirstFormApplication\obj\Debug\FirstFormApplication.csproj.GenerateResource.Cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\FirstFormApplication\FirstFormApplication\obj\Debug\FirstFormApplication.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\FirstFormApplication\FirstFormApplication\obj\Debug\FirstFormApplication.pdb
