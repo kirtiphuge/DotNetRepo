@@ -1,0 +1,6 @@
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day16_ADO.Net\Day16_ADO.Net\bin\Debug\Day16_ADO.Net.exe.config
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day16_ADO.Net\Day16_ADO.Net\bin\Debug\Day16_ADO.Net.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day16_ADO.Net\Day16_ADO.Net\bin\Debug\Day16_ADO.Net.pdb
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day16_ADO.Net\Day16_ADO.Net\obj\Debug\Day16_ADO.Net.csprojResolveAssemblyReference.cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day16_ADO.Net\Day16_ADO.Net\obj\Debug\Day16_ADO.Net.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day16_ADO.Net\Day16_ADO.Net\obj\Debug\Day16_ADO.Net.pdb
