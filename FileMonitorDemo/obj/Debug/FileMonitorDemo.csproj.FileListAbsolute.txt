@@ -1,0 +1,14 @@
+c:\users\phuge_k\documents\visual studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\obj\Debug\FileMonitorDemo.csprojResolveAssemblyReference.cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\obj\Debug\FileMonitorDemo.Service1.resources
+c:\users\phuge_k\documents\visual studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\obj\Debug\FileMonitorDemo.csproj.GenerateResource.Cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\obj\Debug\FileMonitorDemo.ProjectInstaller.resources
+c:\users\phuge_k\documents\visual studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.exe.config
+c:\users\phuge_k\documents\visual studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.pdb
+c:\users\phuge_k\documents\visual studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\obj\Debug\FileMonitorDemo1.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\obj\Debug\FileMonitorDemo1.pdb
+c:\users\phuge_k\documents\visual studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.exe.manifest
+c:\users\phuge_k\documents\visual studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.application
+c:\users\phuge_k\documents\visual studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\obj\Debug\FileMonitorDemo1.exe.manifest
+c:\users\phuge_k\documents\visual studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\obj\Debug\FileMonitorDemo1.application

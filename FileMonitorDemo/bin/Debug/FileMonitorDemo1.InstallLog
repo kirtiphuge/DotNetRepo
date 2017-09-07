@@ -1,0 +1,34 @@
+﻿Installing assembly 'C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.InstallLog
+   assemblypath = C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.exe
+Installing service FileMonitorService1...
+Service FileMonitorService1 has been successfully installed.
+Creating EventLog source FileMonitorService1 in log Application...
+Committing assembly 'C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.InstallLog
+   assemblypath = C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.exe
+Uninstalling assembly 'C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.InstallLog
+   assemblypath = C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.exe
+Removing EventLog source FileMonitorService1.
+Service FileMonitorService1 is being removed from the system...
+Service FileMonitorService1 was successfully removed from the system.
+Installing assembly 'C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.InstallLog
+   assemblypath = C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.exe
+Installing service FileMonitorService1...
+Service FileMonitorService1 has been successfully installed.
+Creating EventLog source FileMonitorService1 in log Application...
+Committing assembly 'C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.InstallLog
+   assemblypath = C:\Users\phuge_k\Documents\Visual Studio 2015\Projects\FileMonitorDemo\FileMonitorDemo\bin\Debug\FileMonitorDemo1.exe
