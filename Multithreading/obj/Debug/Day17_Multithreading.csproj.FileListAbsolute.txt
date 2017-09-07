@@ -1,0 +1,6 @@
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day17_Multithreading\Day17_Multithreading\bin\Debug\Day17_Multithreading.exe.config
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day17_Multithreading\Day17_Multithreading\bin\Debug\Day17_Multithreading.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day17_Multithreading\Day17_Multithreading\bin\Debug\Day17_Multithreading.pdb
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day17_Multithreading\Day17_Multithreading\obj\Debug\Day17_Multithreading.csprojResolveAssemblyReference.cache
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day17_Multithreading\Day17_Multithreading\obj\Debug\Day17_Multithreading.exe
+c:\users\phuge_k\documents\visual studio 2015\Projects\Day17_Multithreading\Day17_Multithreading\obj\Debug\Day17_Multithreading.pdb
